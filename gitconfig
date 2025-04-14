@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = heavenly0430@gmail.com
+	name = ChiaJung Chung
